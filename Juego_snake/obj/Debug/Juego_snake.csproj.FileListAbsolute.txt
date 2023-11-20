@@ -1,0 +1,10 @@
+C:\Users\dcrio\source\repos\Juego_snake\Juego_snake\bin\Debug\Juego_snake.exe.config
+C:\Users\dcrio\source\repos\Juego_snake\Juego_snake\bin\Debug\Juego_snake.exe
+C:\Users\dcrio\source\repos\Juego_snake\Juego_snake\bin\Debug\Juego_snake.pdb
+C:\Users\dcrio\source\repos\Juego_snake\Juego_snake\obj\Debug\Juego_snake.csproj.AssemblyReference.cache
+C:\Users\dcrio\source\repos\Juego_snake\Juego_snake\obj\Debug\Juego_snake.Properties.Resources.resources
+C:\Users\dcrio\source\repos\Juego_snake\Juego_snake\obj\Debug\Juego_snake.csproj.GenerateResource.cache
+C:\Users\dcrio\source\repos\Juego_snake\Juego_snake\obj\Debug\Juego_snake.csproj.CoreCompileInputs.cache
+C:\Users\dcrio\source\repos\Juego_snake\Juego_snake\obj\Debug\Juego_snake.exe
+C:\Users\dcrio\source\repos\Juego_snake\Juego_snake\obj\Debug\Juego_snake.pdb
+C:\Users\dcrio\source\repos\Juego_snake\Juego_snake\obj\Debug\Juego_snake.La_Culebrita.resources
